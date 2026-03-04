@@ -17,7 +17,7 @@ def load_model():
     model_path = 'particle_classifier_opt.h5'
     
     # 🛑 🛑 🛑 請注意！把下面這串引號裡面的網址，換成你剛剛複製的連結！ 🛑 🛑 🛑
-    MODEL_URL = 'https://github.com/a128051757-tech/auto_cluster.py/releases/tag/v1.0'
+    MODEL_URL = 'https://github.com/a128051757-tech/auto_cluster.py/releases/download/v1.0/particle_classifier_opt.h5'
     
     # 如果雲端伺服器上沒有模型檔案，就自動從 GitHub 下載
     if not os.path.exists(model_path):
