@@ -1,0 +1,18 @@
+# === 基礎影像與數據處理 ===
+opencv-python
+numpy
+Pillow
+
+# === AI 深度學習核心 ===
+tensorflow
+scikit-learn
+
+# === 視覺化圖表 ===
+matplotlib
+
+# === Excel 自動化處理 ===
+openpyxl
+openpyxl-image-loader
+
+# === 網頁介面 ===
+streamlit
